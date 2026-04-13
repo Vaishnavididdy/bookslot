@@ -1,4 +1,4 @@
-const BASE = "http://localhost:8000";
+const BASE = "https://bookslot-037d.onrender.com";
 
 const ALL_SLOTS = [
   "09:00","10:00","11:00","12:00","13:00",
